@@ -1,0 +1,26 @@
+{
+    "status": 200,
+    "message": "OK",
+    "result": {
+        "unique": "64f5f13abc8102179ea4df1c",
+        "name": "Vip!",
+        "avatar": "https://qnimage.snailsleep.net/FhY3w6NjM-lDGwt9vMxMUd2EpIvV",
+        "birth": 0,
+        "gender": "FEMALE",
+        "region": null,
+        "uId": 6872316807,
+        "personally": "",
+        "height": 0,
+        "weight": 0,
+        "goodNum": 0,
+        "likeNum": 0,
+        "followNum": 0,
+        "fansNum": 0,
+        "visitorNum": 0,
+        "birthFlag": false,
+        "genderFlag": false,
+        "photoWall": [],
+        "visible": true,
+        "vip": true
+    }
+}
