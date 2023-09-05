@@ -1,6 +1,7 @@
 const scriptName = "蜗牛睡眠";
 let magicJS = MagicJS(scriptName, "INFO");
 (() => {
+    magicJS.logError(`????????`);
   let body = null;
   if (magicJS.isResponse) {
     let s = `{
